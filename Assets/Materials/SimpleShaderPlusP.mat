@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: SimpleVertexFragmentShader
-  m_Shader: {fileID: 4800000, guid: a5620a64703b6e74dac554287372b62d, type: 3}
+  m_Name: SimpleShaderPlusP
+  m_Shader: {fileID: 4800000, guid: 8c78a0190e770d944b0ed58a5496a6e2, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
